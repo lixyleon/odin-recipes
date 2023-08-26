@@ -9,7 +9,7 @@
 
 ## Author
 ** Lixy León **
-[Recetario](www.goodhousekeeping.com)
+[Recetario de goodhousekeeping](https://www.goodhousekeeping.com/food-recipes/healthy/g807/vegan-recipes/))
 
 ## Show your support
 
