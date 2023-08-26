@@ -9,5 +9,12 @@
 
 ## Author
 ** Lixy León **
-** Recetario de https://www.goodhousekeeping.com/food-recipes/healthy/g807/vegan-recipes/
+Recetario de https://www.goodhousekeeping.com/food-recipes/healthy/g807/vegan-recipes/
 
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [CC0-1.0](LICENSE) licensed.
